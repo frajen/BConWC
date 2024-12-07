@@ -1,0 +1,144 @@
+Success?
+ff6wc_c5HArVYbH0fT.1645910766.txt
+
+
+also, 
+
+Rando options (use y/n for all options)
+
+Skip all rando (testing/debug)? (y/n)   n
+Apply Y Equip/Relic patch? (y/n)   y
+Y Equip/Relic patch applied!
+Apply 'Run From Coliseum' patch? (y/n)   y
+Run From Coliseum patch applied!
+Apply 'Equip Anything' patch? Allows all items including items/relics to be equipped in weapon/shield slots, by all characters.  (y/n)   n
+Randomize animation colors?   (y/n)    y
+Animation colors randomized!
+Randomize monster sprites using remonsterate (can pick sprites from other games)? Requires external ROM expansion.  (y/n)   y
+Randomize entrances? (y/n)   n
+Randomize monster abilities/stats/appearances? (y/n)   y
+Specify monster rando aspects? 'n' will apply all randomization options  (y/n)  y
+WC scaling options will still apply to changed enemy stats.
+
+
+Randomize base stats pt1: speed, attack, hitrate, evade, mblock, def, mdef, magpwr. Randomized based on level such that higher level monsters have higher potential to increase, while lower level monsters have less chance to be much different from their vanilla values   n
+Randomize base stats pt2: HP, MP values. Randomized based on level such that higher level monsters have higher potential to increase, while lower level monsters have less chance to be much different from their vanilla values   n
+Randomize escapability, scan-ability, undead flags.   n
+Randomize auto-statuses and status immunities.   n
+Randomize elemental absorption, nullifcation, and weaknesses. Weaknesses can be scanned, if the enemy is scan-able.   n
+Randomize monster special abilities. This can affect Rages that use monster specials.   n
+Randomize monster special abilities even more (increases difficulty). BC option darkworld    n
+Randomize monster scripts (will override WC ability scaling element/random).   n
+Randomize monster Control commands.   n
+Randomize monster Sketch and Rage commands.   n
+Randomize monster drops.   y
+Randomize monster steals.   n
+Randomize monster Ragnarok metamorphs.   n
+Randomize monster sprites.   n
+Randomize monster palettes.   n
+Make easier/early-game bosses more difficult.     y
+Monster stats/abilities randomized!
+Randomize items? (y/n)  n
+Randomize commands? This may cause issues with learning SwdTech/Blitzes if the WC flags 'Everyone Learns' are off. (y/n)   n
+Randomize music (johnnydmad)? (y/n)   y
+Chaotic music? (y/n)   y
+Music randomized!
+Randomization successful. Output filename: ff6wc_c5HArVYbH0fT.1645910252.smc
+
+Press enter to close this program. 
+
+---------
+
+Failed:
+> ff6wc_c5HArVYbH0fT.smc
+
+
+
+
+
+Rando options (use y/n for all options)
+
+Skip all rando (testing/debug)? (y/n)   n
+Apply Y Equip/Relic patch? (y/n)   y
+Y Equip/Relic patch applied!
+Apply 'Run From Coliseum' patch? (y/n)   y
+Run From Coliseum patch applied!
+Apply 'Equip Anything' patch? Allows all items including items/relics to be equipped in weapon/shield slots, by all characters.  (y/n)   n
+Randomize animation colors?   (y/n)    y
+Animation colors randomized!
+Randomize monster palettes (apply remonsterate)? Requires external ROM expansion.  (y/n)   y
+Randomize entrances? (y/n)   n
+Randomize monster abilities/stats/appearances? (y/n)   y
+Specify monster rando aspects? 'n' will apply all randomization options  (y/n)  y
+WC scaling options will still apply to changed enemy stats.
+
+
+Randomize base stats pt1: speed, attack, hitrate, evade, mblock, def, mdef, magpwr. Randomized based on level such that higher level monsters have higher potential to increase, while lower level monsters have less chance to be much different from their vanilla values   n
+Randomize base stats pt2: HP, MP values. Randomized based on level such that higher level monsters have higher potential to increase, while lower level monsters have less chance to be much different from their vanilla values   n
+Randomize escapability, scan-ability, undead flags.   n
+Randomize auto-statuses and status immunities.   n
+Randomize elemental absorption, nullifcation, and weaknesses. Weaknesses can be scanned, if the enemy is scan-able.   n
+Randomize monster special abilities. This can affect Rages that use monster specials.   n
+Randomize monster special abilities even more (increases difficulty). BC option darkworld    n
+Randomize monster scripts (will override WC ability scaling element/random).   n
+Randomize monster Control commands.   n
+Randomize monster Sketch and Rage commands.   n
+Randomize monster drops.   y
+Randomize monster steals.   n
+Randomize monster Ragnarok metamorphs.   n
+Randomize monster sprites.   n
+Randomize monster palettes.   y
+Make easier/early-game bosses more difficult.     y
+Monster stats/abilities randomized!
+Randomize items? (y/n)  n
+Randomize commands? This may cause issues with learning SwdTech/Blitzes if the WC flags 'Everyone Learns' are off. (y/n)   n
+Randomize music (johnnydmad)? (y/n)   y
+Chaotic music? (y/n)   y
+Music randomized!
+Randomization successful. Output filename: ff6wc_c5HArVYbH0fT.1645906819.smc
+
+
+---
+
+Rando options (use y/n for all options)
+
+Skip all rando (testing/debug)? (y/n)   n
+Apply Y Equip/Relic patch? (y/n)   y
+Y Equip/Relic patch applied!
+Apply 'Run From Coliseum' patch? (y/n)   y
+Run From Coliseum patch applied!
+Apply 'Equip Anything' patch? Allows all items including items/relics to be equipped in weapon/shield slots, by all characters.  (y/n)   n
+Randomize animation colors?   (y/n)    y
+Animation colors randomized!
+Randomize monster sprites using remonsterate (can pick sprites from other games)? Requires external ROM expansion.  (y/n)   y
+Randomize entrances? (y/n)   n
+Randomize monster abilities/stats/appearances? (y/n)   y
+Specify monster rando aspects? 'n' will apply all randomization options  (y/n)  y
+WC scaling options will still apply to changed enemy stats.
+
+
+Randomize base stats pt1: speed, attack, hitrate, evade, mblock, def, mdef, magpwr. Randomized based on level such that higher level monsters have higher potential to increase, while lower level monsters have less chance to be much different from their vanilla values   n
+Randomize base stats pt2: HP, MP values. Randomized based on level such that higher level monsters have higher potential to increase, while lower level monsters have less chance to be much different from their vanilla values   n
+Randomize escapability, scan-ability, undead flags.   n
+Randomize auto-statuses and status immunities.   n
+Randomize elemental absorption, nullifcation, and weaknesses. Weaknesses can be scanned, if the enemy is scan-able.   n
+Randomize monster special abilities. This can affect Rages that use monster specials.   n
+Randomize monster special abilities even more (increases difficulty). BC option darkworld    n
+Randomize monster scripts (will override WC ability scaling element/random).   n
+Randomize monster Control commands.   n
+Randomize monster Sketch and Rage commands.   n
+Randomize monster drops.   y
+Randomize monster steals.   n
+Randomize monster Ragnarok metamorphs.   n
+Randomize monster sprites.   n
+Randomize monster palettes.   n
+Make easier/early-game bosses more difficult.     y
+Monster stats/abilities randomized!
+Randomize items? (y/n)  n
+Randomize commands? This may cause issues with learning SwdTech/Blitzes if the WC flags 'Everyone Learns' are off. (y/n)   n
+Randomize music (johnnydmad)? (y/n)   y
+Chaotic music? (y/n)   y
+Music randomized!
+Randomization successful. Output filename: ff6wc_c5HArVYbH0fT.1645909596.smc
+
+Press enter to close this program. 

@@ -1,0 +1,77 @@
+Python 3.7.5 (tags/v3.7.5:5c02a39a0b, Oct 15 2019, 00:11:34) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: F:\Program Files (x86)\snes9x\Roms\FF6Rand\BC\04 - BC Option Testing\randomizer.py
+You are using a Beyond Chaos mod for FF6 Worlds Collide + Entrance Randomizer. Stability is not guaranteed.
+Please input the file name of your copy of your FF6 WC rom (blank for previous: f_wc_4ry0y34wnxel.smc):
+> 
+
+
+
+
+
+Rando options (use y/n for all options)
+
+Skip all rando (testing/debug)? (y/n)   n
+Apply Y Equip/Relic patch? (y/n)   y
+Y Equip/Relic patch applied!
+Apply 'Run From Coliseum' patch? (y/n)   y
+Run From Coliseum patch applied!
+Apply 'Equip Anything' patch? Allows all items including items/relics to be equipped in weapon/shield slots, by all characters.  (y/n)   n
+Randomize animation colors?   (y/n)    y
+Animation colors randomized!
+Randomize entrances? (y/n)   n
+Randomize monster abilities/stats/appearances? (y/n)   y
+Specify monster rando aspects? 'n' will apply all randomization options  (y/n)  y
+WC scaling options will still apply to changed enemy stats.
+
+
+Randomize base stats pt1: speed, attack, hitrate, evade, mblock, def, mdef, magpwr. Randomized based on level such that higher level monsters have higher potential to increase, while lower level monsters have less chance to be much different from their vanilla values   n
+Randomize base stats pt2: HP, MP values. Randomized based on level such that higher level monsters have higher potential to increase, while lower level monsters have less chance to be much different from their vanilla values   n
+Randomize escapability, scan-ability, undead flags.   n
+Randomize auto-statuses and status immunities.   n
+Randomize elemental absorption, nullifcation, and weaknesses. Weaknesses can be scanned, if the enemy is scan-able.   n
+Randomize monster special abilities. This can affect Rages that use monster specials.   n
+Randomize monster special abilities even more (increases difficulty). BC option darkworld    n
+Randomize monster scripts (will override WC ability scaling element/random).   n
+Randomize monster Control commands.   n
+Randomize monster Sketch and Rage commands.   n
+Randomize monster drops.   y
+Randomize monster steals.   n
+Randomize monster Ragnarok metamorphs.   n
+Randomize monster sprites.   n
+Randomize monster palettes.   y
+Make easier/early-game bosses more difficult.     y
+Monster stats/abilities randomized!
+Randomize items? (y/n)  y
+Specify item rando aspects? 'n' will apply all randomization options  (y/n)  y
+% chances are for each individual item
+
+
+Randomize item stats pt1: atk/def, hit/mdef values are     randomized such that original values closer 127 get varied the most (by up to 33%)   n
+Randomize item stats pt2: vig/spd/magpwr/sta, evade/mblock     are slightly randomized (+/- 1 or +/- 10 Evade/MBlock)   n
+~6% chance to add a proc/break effect   y
+~2% chance to add a special action:     Can steal, Atma, X-kill, Man eater, Drain HP, Drain MP, Uses some MP, Random throw,     Dice, Valiant, Wind Attack, Heals Target, Slice Kill, Fragile wpn, Uses more MP   n
+~2% chance to teach a spell   y
+~6% chance to modify elemental properties: weapon element,     elemental halve, nullify, absorb, weakness   n
+~4% chance to add a feature from one of the following     categories: 
+ 1) Atlas Armlet, Earrings x2, +1/2, 1/4, 1/8 HP, +1/2, 1/4, 1/8 MP 
+ 2) Earrings     Better Steal, Better Sketch, Better Control, 100% Hit Rate (Sniper Sight), 1/2 MP Cost,     MP cost = 1, Vigor +50% (Hyper Wrist) 
+ 3) Initiative (Gale Hairpin), Vigilance (Back Guard)     Fight->Jump, Magic->X Magic, Sketch->Control, Slot->GP Rain, Steal->Capture, Super Jump     (Dragon Horn) 
+ 4) Fight -> X-Fight (Offering), Counter (Black Belt), Random Evade (Beads),     2-hand weapons (Gauntlet), Equip 2 weapons (Genji Glove), Merit Award, Cover (True Knight),     Step regen (Tintinabar) 
+ 5) Status Protection: No dark, No zombie, No poison, No magitek     (prevents Magitek armor from overriding commands), No clear, No imp, No petrify, Death     protection (Safety Bit) 
+ 6) Status Protection: No condemned, Near fatal always, No image,     No mute, No berserk, No muddle, No seizure, No sleep 
+ 7) Auto-status: Condemned, Near     fatal, Image, Mute, Berserk, Muddle, Seizure, Sleep 
+ 8) Auto-status: Auto float, Auto     regen, Auto slow, Auto haste, Auto stop, Auto shell, Auto safe, Auto reflect 
+ 9) Field     effect: 1/2 enc (Charm Bangle), No enc (Moogle Charm)   n
+5% chance to allow an item to be equipped using Merit Award     when it currently is not allowed (e.g. SnowMuffler)   n
+Add an additional 33% chance to add a special action, an additional 50% chance to add a feature, and an additional repeating 33% chance to add a     feature (every time a feature is added, give an additional 33% chance to add another one.     BC option extra_effects   n
+Items randomized!
+Randomize commands? This may cause issues with learning SwdTech/Blitzes if the WC flags 'Everyone Learns' are off. (y/n)   n
+Randomize music (johnnydmad)? (y/n)   y
+Chaotic music? (y/n)   y
+Music randomized!
+Randomization successful. Output filename: f_wc_4ry0y34wnxel.1645669160.smc
+
+Press enter to close this program. 
+>>> 
